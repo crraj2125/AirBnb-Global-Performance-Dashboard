@@ -62,3 +62,18 @@ This repository contains the supporting resources used to build the dashboard.
 # Conclusion
 
 The Airbnb Global Performance Dashboard provides a visual overview of customer review behavior, seasonal trends, and host trust indicators. It demonstrates how Power BI and DAX can be used to convert raw data into actionable business insights.
+
+
+## 📸 Dashboard Preview
+
+### 1. Market Share by City
+![Market Share by City](Overview.png)
+
+### 2. Ratings Analysis
+![Ratings Analysis](Ratings%20Overall%20rating.png)
+
+### 3. Ratings Detailed Analysis
+![Ratings Detailed Analysis](Ratings%20Detailed%20ratings.png)
+
+### 4. Reviews, Seasonality & Trust
+![Reviews, Seasonality & Trust](Reviews.png)
